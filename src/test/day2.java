@@ -16,7 +16,10 @@ public class day2 {
 	public void Secondtest2()
 	{
 		System.out.println("bye2");
+		System.out.println("check");
+		
 	}
+	
 
 	
 @BeforeMethod
