@@ -19,7 +19,10 @@ public class day1 {
 	public void Secondtest(String s)
 	{
 		System.out.println("bye");
+                 System.out.println("hiii");
+		System.out.println("heeeee");
 		System.out.println(s);
+
 	}
 	
 }
